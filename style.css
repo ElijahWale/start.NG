@@ -1,0 +1,89 @@
+body{
+     width: 1000px;
+     margin: 0 auto;
+     padding: 0;
+     font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#profile{
+     padding-top:50px;
+    
+     
+}
+img{
+     float: left;
+     width:120px;
+     height:150px;
+     margin-left:50px;
+}
+.clear{
+     clear:both;
+}
+.self{
+     float: left;
+     width:500px;
+     margin-left: 40px;
+}
+.self p{
+     line-height:1.5; 
+     margin-top:-2px;
+}
+h1{
+     font-size:35px;
+	color:#1b4491;
+	margin-bottom:3px;   
+}
+h1 span {
+	font-size:21px;
+	display:block;
+	color:#1b4491;
+	margin-top:-5px;
+}
+h2{
+     width: 180px;
+     height: 23px;
+     text-align: right;
+     float: left;
+     clear: both;
+     font-size: 22px;
+     color: #1b4491;
+     margin-bottom: -12px;
+}
+p{
+     width: 500px;
+     margin-left: 20px;
+     float: left;
+}
+div.content {
+     clear: both;
+     padding: 0;
+     margin: 0;
+     overflow: hidden;
+     display: block;
+     padding-top: 32px;
+ }
+h3{
+     width: 180px;
+     text-align: right;
+     float: left;
+     padding: 0;
+     clear: both;
+     font-size: 13px;
+     color: #7b90b5;
+     margin-top: 15px;
+}
+ul.skills {
+	float:left;
+	width:500px;
+	margin-left:20px;
+     margin-top:-6px;
+}
+ul.skills li{
+     float:left;
+     width:156px;
+     margin-top: 12px;
+}
+span{
+    font-family: Georgia, "Times New Roman", serif;
+    font-style: italic;
+    color: #777777;
+}
